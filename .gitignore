@@ -1,0 +1,15 @@
+# Roblox place and model files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.lock
+
+# Secrets
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
